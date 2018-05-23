@@ -1,6 +1,6 @@
 __module_name__ = "AloraBot"
 __module_version__ = "0.2"
-__module_description__ = "stop fucking breaking python"
+__module_description__ = "Twitch Chat Python"
 
 import hexchat
 import string
